@@ -1,1 +1,1 @@
-# openai-workshop
+# Azure OpenAI Workshop

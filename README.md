@@ -1,6 +1,9 @@
 # Azure OpenAI Workshop
 
 
+### Labs
+[Lab 1 - Set an Azure Machine Learning Workspace](labs/Lab%201%20-%20Azure%20Machine%20Learning%20Workspace.md).   
+
 
 ### In this workshop
 

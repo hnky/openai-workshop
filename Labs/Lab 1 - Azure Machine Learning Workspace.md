@@ -44,7 +44,14 @@ Create a compute instance to use this development environment for the rest of th
 - Select **Create**.
 - In about two minutes, you'll see the State of the compute instance change from Creating to Running. It's now ready to go.
 
-
+## Create an empty Notebook
+- Click on the left on Notebooks
+- Click on + create
+- In the dropdown select create new file
+- Enter a name
+- File type select notebook
+- Click create
+- On the right you now should see an empty notebook
 
 
 ## Learn more on Microsoft Docs
@@ -59,3 +66,4 @@ In this lab you have:
 
 * [ ] Created an Azure Machine Learning Workspace
 * [ ] Created a Compute Instance in your Azure Machine Learning Workspace
+* [ ] Created an empty Notebook to work in
